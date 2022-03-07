@@ -1,5 +1,6 @@
-body {
+html {
   background-color: #fdf6e3;
+  font-family: sans-sans-serif;
 }
 
 *,
@@ -45,7 +46,7 @@ a:not(.no-highlight) {
 }
 
 ol li:first-child {
-  color: #719e47
+  color: #719e47;
 }
 
 ol li:last-child {
